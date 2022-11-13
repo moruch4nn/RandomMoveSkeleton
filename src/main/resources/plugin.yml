@@ -1,0 +1,4 @@
+name: RandomMoveSkeleton
+main: dev.moru3.randommoveskeleton.RandomMoveSkeleton
+api-version: 1.18
+version: 1.0

@@ -1,0 +1,11 @@
+world: world
+speed: 1.0
+spawnDelay: 100 # tick
+pos1:
+  x: -97
+  y: 77
+  z: -58
+pos2:
+  x: -97
+  y: 90
+  z: -80
